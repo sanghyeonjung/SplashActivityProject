@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/drawable/corner_radius_layout_background.xml" value="0.1145" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/drawable/custom_login_button.xml" value="0.236" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/drawable/custom_signup_button.xml" value="0.236" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/drawable/ic__8.xml" value="0.367" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/drawable/ic__8__1_.xml" value="0.323" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/drawable/ic__9__1_.xml" value="0.323" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/drawable/ic_back_icon.xml" value="0.354" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/drawable/ic_image_1.xml" value="0.354" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/drawable/ic_image_book.xml" value="0.354" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/drawable/invest_custom_button.xml" value="0.354" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/drawable/radius_layout.xml" value="0.354" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/drawable/read_custom_button.xml" value="0.354" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/font/font.xml" value="0.2598958333333333" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/layout/activity_book.xml" value="0.25" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/layout/activity_splash.xml" value="0.1875" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/layout/title_activity.xml" value="0.2296875" />
+        <entry key="..\:/Users/82105/AndroidStudioProjects/byeongju_application/app/src/main/res/xml/style.xml" value="0.22644927536231885" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
